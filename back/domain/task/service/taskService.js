@@ -1,4 +1,4 @@
-const Task = require("../../task/schema/task");
+const Task = require("../schema/task");
 const taskDTO = require("../dto/response/taskDTO");
 
 // create 함수
