@@ -1,4 +1,5 @@
 # 2024 동계 인턴쉽 챌린지 과제
+https://github.com/INC-THECOMPASS/2024-winter-internship-assignment
 
 ## API Server
 
