@@ -1,5 +1,4 @@
 # 2024 동계 인턴쉽 챌린지 과제
-https://github.com/INC-THECOMPASS/2024-winter-internship-assignment
 
 ## API Server
 
@@ -7,9 +6,6 @@ https://github.com/INC-THECOMPASS/2024-winter-internship-assignment
 - language : JavaScript
 - library : Express.js
 - Database: MongoDB
-
-### 개발자
-BE - 류건
 
 ### 상세 기술
 1. 프로젝트 도메인 CRUD 구현
